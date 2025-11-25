@@ -11,7 +11,7 @@
     "username": "aj",
     "password": "aj",
     "expiresAt": "2025-12-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
